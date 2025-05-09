@@ -20,6 +20,10 @@ A responsive React application that displays random cat images from [TheCatAPI](
 - SCSS Modules
 - TheCatAPI
 
+## Live Demo
+
+[View on Vercel](https://cat-gallery.vercel.app)
+
 ## Installation ⚙️
 
 1. Clone the repository
