@@ -22,7 +22,7 @@ A responsive React application that displays random cat images from [TheCatAPI](
 
 ## Live Demo
 
-[View on Vercel](https://cat-gallery.vercel.app)
+[View on Vercel](https://cat-gallery-mb.vercel.app)
 
 ## Installation ⚙️
 
