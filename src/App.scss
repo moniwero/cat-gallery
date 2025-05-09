@@ -1,0 +1,29 @@
+@use './styles/variables' as vars;
+
+.app-container {
+  text-align: center;
+  padding: 2rem;
+  font-family: sans-serif;
+  background: vars.$bg-color;
+  min-height: 100vh;
+}
+
+h1 {
+  margin-bottom: 1rem;
+  font-size: 3rem;
+
+  @media (max-width: 500px) {
+    font-size: 2rem;
+  }
+}
+
+.refresh-btn {
+  font-size: 1.15rem;
+  background: vars.$primary-color;
+  color: white;
+  border: none;
+  padding: 0.6rem 1.2rem;
+  margin-bottom: 1rem;
+  cursor: pointer;
+  border-radius: 5px;
+}
